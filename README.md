@@ -1,2 +1,1 @@
-# Parameter-Estimations
-Parameter Estimation &amp; Hypothesis Testing
+# Parameter Estimations & Hypothesis Testing
